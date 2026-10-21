@@ -1,0 +1,14 @@
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\bin\Debug\net8.0\Adv Algorithm.exe
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\bin\Debug\net8.0\Adv Algorithm.deps.json
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\bin\Debug\net8.0\Adv Algorithm.runtimeconfig.json
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\bin\Debug\net8.0\Adv Algorithm.dll
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\bin\Debug\net8.0\Adv Algorithm.pdb
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.AssemblyInfoInputs.cache
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.AssemblyInfo.cs
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.dll
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\refint\Adv Algorithm.dll
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.pdb
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\Adv Algorithm.genruntimeconfig.cache
+C:\Users\akola\Desktop\Temitope\Adv Algorithm\obj\Debug\net8.0\ref\Adv Algorithm.dll
